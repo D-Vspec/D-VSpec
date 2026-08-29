@@ -18,11 +18,6 @@ A GGUF-based LLM runner built from scratch. Custom tensor operations with multi-
 
 A multi-provider JSON-RPC proxy with M-of-N consensus for data integrity. Includes a verification engine that walks Merkle-Patricia Tries and validates RLP-encoded proofs at the byte level, cryptographic state-root validation for Ethereum calls, and a real-time observability suite.
 
-### Cryptic Hunt — Go, CockroachDB, React Native
-[Play Store](https://play.google.com/store) · [Repository](https://github.com)
-
-Backend and frontend for ACM-VIT's 36-hour flagship event, peaking at ~1,000 concurrent users. Diagnosed and resolved a full outage caused by network I/O inside a database transaction and removed lock-on-read across the backend to run the event to completion.
-
 ### dvMeet — Next.js, Node.js, WebRTC, Socket.IO
 [Repository](https://github.com/D-Vspec/dvMeet) · [Live Demo](https://dvmeet.vercel.app/)
 
